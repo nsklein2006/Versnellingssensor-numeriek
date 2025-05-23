@@ -1,0 +1,1 @@
+Het document versnellingsprofiel-glad.csv en het document nummeriek model versnellingssensor.ipynb moeten gedownload worden en in dezelfde map gezet worden, anders kan de code het csv bestand niet lzen.

@@ -1,1 +1,1 @@
-Het document versnellingsprofiel-glad.csv, meting2NC.csv en het document nummeriek model versnellingssensor.ipynb moeten gedownload worden en in dezelfde map gezet worden, anders kan de code het csv bestand niet lezen. De .py documenten kunnen geopend worden in spyder en het .ipynb bestand kan worden geopend in jupyter notebook
+Alle documenten moeten gedownload worden en in dezelfde map worden gezet, anders kan de code het csv bestand niet lezen. De .py documenten kunnen geopend worden in spyder en het .ipynb bestand kan worden geopend in jupyter notebook
